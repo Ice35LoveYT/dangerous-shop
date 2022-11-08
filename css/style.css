@@ -59,7 +59,7 @@ body{
     width: 100%;
     height: 3343px;
 
-    background-image: url(/img/background.png);
+    background-image: url(img/background.png);
     background-size: 110%;
 }
 .header-container{
